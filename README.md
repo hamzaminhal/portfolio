@@ -1,8 +1,8 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Hamza Minhal! 👋
 
-### 👨‍🏫 Educator & 💻 Full Stack Developer
+### 💻 Full Stack Developer
 
-I am a Chemistry Teacher turned Full Stack Web Developer based in Pakistan. With a background in education, I bring a unique perspective to development: I break down complex problems into manageable solutions and prioritize clarity in my code, just as I do in my lectures.
+As a Frontend Developer, I bridge the gap between design and functionality. I have experience building complex web applications, including e-commerce dashboards and educational platforms, with a focus on performance and intuitive UX
 
 I specialize in the **MERN Stack** and **Next.js**, building responsive, real-world applications that solve actual business and social problems.
 
@@ -29,14 +29,14 @@ I specialize in the **MERN Stack** and **Next.js**, building responsive, real-wo
 
 ### 🚀 Featured Projects
 
-#### 🥘 Rizq Rescue
+<!-- #### 🥘 Rizq Rescue
 
 _A web application designed to combat food waste._
 
 - **The Problem:** Connecting surplus food with those in need to reduce wastage.
 - **Tech:** React, Node.js, Express, MongoDB.
 - **Key Features:** Real-time location tracking for donations, user roles for donors/NGOs.
-- [View Code](#) | [Live Demo](#)
+- [View Code](#) | [Live Demo](#) -->
 
 #### 👕 Fine Threads POS
 
@@ -47,13 +47,13 @@ _A dedicated Point of Sale system for a clothing retail business._
 - **Key Features:** Real-time inventory updates, receipt generation, sales analytics.
 - [View Code](#) | [Live Demo](#)
 
-#### 🎓 EdTech Platform (Udemy Clone)
+<!-- #### 🎓 EdTech Platform (Udemy Clone)
 
 _An educational platform for hosting and consuming video courses._
 
 - **Tech:** Next.js, TypeScript.
 - **Status:** In Development.
-- [View Code](#)
+- [View Code](#) -->
 
 ---
 
