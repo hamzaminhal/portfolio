@@ -18,7 +18,7 @@ const contactInfo = [
       </svg>
     ),
     label: "Email",
-    value: "hello@example.com",
+    value: "hamzaminhal2@gmail.com",
     href: "mailto:hamzaminhal2@gmail.com",
   },
   {
